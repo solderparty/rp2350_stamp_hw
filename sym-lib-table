@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi")(type "KiCad")(uri "${KIPRJMOD}/library/MCU_RaspberryPi.kicad_sym")(options "")(descr ""))
+  (lib (name "Battery_Management_Extra")(type "KiCad")(uri "${KIPRJMOD}/library/Battery_Management_Extra.kicad_sym")(options "")(descr ""))
+)

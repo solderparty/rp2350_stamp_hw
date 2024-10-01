@@ -272,12 +272,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "236ffa5f-10f3-411b-a597-5b45fa1d552c")
+			(uuid "2b8d1778-17be-4c07-a632-0146075f58e6")
 			(effects
 				(font
 					(size 1 1)
@@ -490,12 +490,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "98b16a13-da9d-4f83-833a-e90929062e13")
+			(uuid "438c0cda-a1a3-46bd-8d1e-e63f2bce3049")
 			(effects
 				(font
 					(size 1 1)
@@ -708,12 +708,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a1322be8-3241-4d10-b126-95e2a9bd7140")
+			(uuid "4794eb70-a989-4e6e-b0f1-f86485516037")
 			(effects
 				(font
 					(size 1 1)
@@ -926,12 +926,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a762f4f8-9cc0-4ec5-8daf-8ec449c18746")
+			(uuid "18164afc-fec8-4c81-900a-cdd6624f3d0a")
 			(effects
 				(font
 					(size 1 1)
@@ -1146,12 +1146,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1a8e6a17-7dc9-4927-86ec-806179fca784")
+			(uuid "44ebe237-b094-46f0-af4d-a3a4466c14ef")
 			(effects
 				(font
 					(size 1 1)
@@ -1302,7 +1302,7 @@
 		(descr "Inductor, Wuerth Elektronik, Wuerth_MAPI-2512, 2.5mmx2.0mm")
 		(tags "inductor Wuerth smd")
 		(property "Reference" "L1"
-			(at 0 -2.150001 360)
+			(at 0 -2.150001 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6e6b6fdd-9e58-41d5-bf0b-b90892365d96")
@@ -1314,7 +1314,7 @@
 			)
 		)
 		(property "Value" "3.3uH"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8bdb808c-fe61-406d-b9ca-24e514466810")
@@ -1338,7 +1338,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2301121209_APV-APH252010T4R7M_C5349608.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2306021632_cjiang--Changjiang-Microelectronics-Tech-FTC252010S3R3MBCA_C5832359.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1351,7 +1351,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "FTC252010S3R3MBCA"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1364,12 +1364,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "LCSC" "C5832359"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "63ea8c1f-771d-41e4-9c60-ff6827445a27")
+			(uuid "db8a013c-2b02-4a32-87d7-e63169be349b")
 			(effects
 				(font
 					(size 1 1)
@@ -1377,12 +1377,12 @@
 				)
 			)
 		)
-		(property "LCSC" "C5349608"
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "db8a013c-2b02-4a32-87d7-e63169be349b")
+			(uuid "aa85eb5b-9851-4b6d-a887-308e76229cd9")
 			(effects
 				(font
 					(size 1 1)
@@ -1580,7 +1580,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Orange"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1593,12 +1593,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "49dfd3f0-af5d-4213-a6c4-af0b202a3be9")
+			(uuid "e6a67d67-1fdf-45f0-994c-049405776512")
 			(effects
 				(font
 					(size 1 1)
@@ -1846,12 +1846,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "06c1b9d1-76fc-440a-a09a-2dab9a9791cc")
+			(uuid "074122f2-1f52-4d6c-bb1f-224b31b47655")
 			(effects
 				(font
 					(size 1 1)
@@ -2101,6 +2101,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e650ef0-ba74-461d-a37f-e4c10de495c4")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2440,12 +2453,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "44e78093-826e-4eb8-a586-d7b7c0dec7c0")
+			(uuid "a1df9643-bbc0-4ab4-b064-d07365945c49")
 			(effects
 				(font
 					(size 1 1)
@@ -2457,7 +2470,7 @@
 		(path "/0fd74fdc-b724-4817-953e-26edd2110ee4")
 		(sheetname "Root")
 		(sheetfile "rp2350_stamp.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1 -1)
 			(end -1 19)
@@ -2967,7 +2980,7 @@
 				)
 			)
 		)
-		(property "Value" "XYDBPCNANF-12MHZ"
+		(property "Value" "CM4012M00012001"
 			(at 0 0 145)
 			(layer "F.Fab")
 			(hide yes)
@@ -2992,7 +3005,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2306211600_huaxindianzi-CM4012M00012001_C7294611.pdf"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3018,7 +3031,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C521567"
+		(property "LCSC" "C7294611"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3031,12 +3044,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc6a064f-f390-48be-9fe2-8e9047c561ba")
+			(uuid "a9c29183-ccad-46f0-b419-e3cb1b950a53")
 			(effects
 				(font
 					(size 1 1)
@@ -3297,12 +3310,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "366bc330-8cfc-473e-ac70-ea2b89136892")
+			(uuid "ed4fe553-1ddc-4b98-8f53-d527e6482b98")
 			(effects
 				(font
 					(size 1 1)
@@ -3515,12 +3528,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "341bd7fe-7698-4e1f-9947-7b27f3ccd7a4")
+			(uuid "b21e47cc-2296-4e1c-800b-4a42f684b457")
 			(effects
 				(font
 					(size 1 1)
@@ -3720,7 +3733,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" " B5817WS-SJ"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3746,12 +3759,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e28c842d-564e-4daa-8762-eb1385785557")
+			(uuid "159c8688-9c34-4e62-9d10-5312af20193e")
 			(effects
 				(font
 					(size 1 1)
@@ -4223,12 +4236,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "edd31772-4626-44f5-8a21-c4da25fac4cd")
+			(uuid "cf385b06-4d73-40e5-aa85-815bdf8d626b")
 			(effects
 				(font
 					(size 1 1)
@@ -4602,6 +4615,19 @@
 				)
 			)
 		)
+		(property "Digikey" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0685fb0-c39e-4e21-9bd1-9320fc7d72aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b804ba0a-52dd-48bf-a89d-4d3abf0578d3")
 		(sheetname "Root")
@@ -4817,12 +4843,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f00615eb-aa39-45b7-bc2d-89b2836af472")
+			(uuid "444322f9-b95f-4c48-afa6-999af32a1163")
 			(effects
 				(font
 					(size 1 1)
@@ -5035,12 +5061,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04484c0e-7c8b-4a90-ae23-8b2d8d8bbd64")
+			(uuid "99c1fdce-80d1-42eb-acae-3558cc6fae92")
 			(effects
 				(font
 					(size 1 1)
@@ -5227,7 +5253,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Winbond-Elec-W25Q128JVPIQ_C190862.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Winbond-Elec-W25Q128JVPIQ_C190862.pdf"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5266,12 +5292,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a97c1d71-3368-4a90-a745-4a2eb4a447b6")
+			(uuid "cfde4d0f-2215-4c77-9cc3-6102a333173b")
 			(effects
 				(font
 					(size 1 1)
@@ -5592,12 +5618,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b95d642d-4161-413a-b57d-efb2969daed8")
+			(uuid "42d71f21-99e0-4f42-9b23-d208f3d3571e")
 			(effects
 				(font
 					(size 1 1)
@@ -5760,7 +5786,7 @@
 				)
 			)
 		)
-		(property "Value" "AP2112K-3.3"
+		(property "Value" "ME6211"
 			(at 0 0 155)
 			(layer "F.Fab")
 			(hide yes)
@@ -5785,7 +5811,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811131510_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5811,7 +5837,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C51118"
+		(property "LCSC" "C82942"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5824,25 +5850,12 @@
 				)
 			)
 		)
-		(property "Digikey" "AP2112K-3.3TRG1DICT-ND"
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "169defee-1f70-453d-add5-1cf0d967c2d2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Field-1" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0f5480a4-b8de-4157-b645-3cfdd72fe742")
 			(effects
 				(font
 					(size 1 1)
@@ -6119,12 +6132,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "069b481d-bd1a-4f28-a122-10d0a6f4841a")
+			(uuid "4bbbe91e-3451-4991-8d15-7d3a37f0d5d1")
 			(effects
 				(font
 					(size 1 1)
@@ -6337,12 +6350,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef03a57d-c801-4518-be7b-48b8e532164b")
+			(uuid "dede2536-b60f-483a-a50b-a033fd0c544b")
 			(effects
 				(font
 					(size 1 1)
@@ -6550,6 +6563,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0080cf6-4fb3-4fb6-a937-a71fffe4d2c8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -7460,12 +7486,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "003bb7cd-11a9-4967-b859-44b924026395")
+			(uuid "569d9b25-2535-464f-9c53-eff8d83f761d")
 			(effects
 				(font
 					(size 1 1)
@@ -7477,7 +7503,7 @@
 		(path "/a299e04c-a9e6-4936-ba57-7a3bbfdb6e67")
 		(sheetname "Root")
 		(sheetfile "rp2350_stamp.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.5 -1)
 			(end -1 -1)
@@ -7976,7 +8002,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C16"
-			(at 0.000002 -1.430001 360)
+			(at 0.000002 -1.430001 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "91bbc085-6853-487e-a796-edb79aa22311")
@@ -7988,7 +8014,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bb7c58a7-0421-41e6-b76f-ae83017ac24f")
@@ -8038,12 +8064,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a9e9545-47d8-4c1a-aab5-6cd3a6b3d1ea")
+			(uuid "4320d96d-226b-404a-aad0-9b30aa4daa43")
 			(effects
 				(font
 					(size 1 1)
@@ -8257,12 +8283,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "45ecafa4-880e-4e74-9c77-318c00dd9d26")
+			(uuid "e7f283bb-02a7-47c9-9483-8f272a2aa705")
 			(effects
 				(font
 					(size 1 1)
@@ -8475,12 +8501,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "394e110f-962a-49b7-a6af-9102b7524cca")
+			(uuid "013f49bc-4e67-4cf8-a3f1-eab557d481f4")
 			(effects
 				(font
 					(size 1 1)
@@ -8867,12 +8893,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89dec988-ef20-4ba1-8326-11352946f866")
+			(uuid "4a8c4e01-af94-4de6-8556-a0a5d17021c1")
 			(effects
 				(font
 					(size 1 1)
@@ -9086,12 +9112,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c85e8db-d903-4fb3-a546-fdb5a359cb35")
+			(uuid "2ed9ad0a-b93e-42cf-a508-d2d62ffdf960")
 			(effects
 				(font
 					(size 1 1)
@@ -9857,12 +9883,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ebd270c1-19a9-44c8-b04e-297c49ce38e4")
+			(uuid "4eba8475-f74b-4053-b66c-a8540d287b0e")
 			(effects
 				(font
 					(size 1 1)
@@ -10075,12 +10101,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d693551-e5c1-425e-994f-4e44480e559d")
+			(uuid "d170fcc7-a5bb-43e6-93f6-bd3d11638301")
 			(effects
 				(font
 					(size 1 1)
@@ -10300,6 +10326,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7eec2da3-5905-4b59-a0b4-82eca727f1e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e748249-3718-4966-8ede-b89a75ad9af9")
 			(effects
 				(font
 					(size 1 1)
@@ -10582,12 +10621,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "beee2f8e-e770-4210-bf6c-69a8771a47b5")
+			(uuid "e7fd3b83-3cb2-4c0c-a2fd-cc92ff4177db")
 			(effects
 				(font
 					(size 1 1)
@@ -10801,12 +10840,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d1253fa0-63a5-4b48-804d-e2cbb8fad13a")
+			(uuid "8a80b722-078c-4604-8e18-1ea11783b1a4")
 			(effects
 				(font
 					(size 1 1)
@@ -10818,7 +10857,7 @@
 		(path "/4647d717-6f7a-4678-ace8-7ddcaa66ecc6")
 		(sheetname "Root")
 		(sheetfile "rp2350_stamp.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1 -1)
 			(end -1 19)
@@ -11379,12 +11418,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "156e8af6-17e8-45c3-bafa-6e3a9bd83329")
+			(uuid "c75b6b06-4751-4c83-bccf-c2edeeef36fa")
 			(effects
 				(font
 					(size 1 1)
@@ -11584,7 +11623,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TS-3025-A-A-B"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11597,12 +11636,25 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79c94ab6-e487-4d96-84d4-23c7c0be01cc")
+			(uuid "cab62f7c-280b-4696-80dd-bd619c758b36")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C561514"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4154451-3532-417f-a91d-62609f80ad06")
 			(effects
 				(font
 					(size 1 1)
@@ -11864,12 +11916,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "99910838-fd61-4ff6-8188-1dfa3f323ed0")
+			(uuid "8de2a7f2-99f1-41e2-a1a1-49088d2161a1")
 			(effects
 				(font
 					(size 1 1)
@@ -12069,7 +12121,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TS-3025-A-A-B"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12082,12 +12134,25 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b06f6f70-2801-45ab-8882-9d6eca4b3fc8")
+			(uuid "a9c043d5-368f-4cc2-92a8-bbf32d508e9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C561514"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6004fe7c-0085-4d45-bd54-001b967837dc")
 			(effects
 				(font
 					(size 1 1)
@@ -12349,12 +12414,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32a9c578-9710-481b-ba97-afb446c59a49")
+			(uuid "8859b803-9b76-4b84-b997-d5a11c513a55")
 			(effects
 				(font
 					(size 1 1)
@@ -12567,12 +12632,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff5af67e-c5a4-4d8f-b8f9-df7dfe74ff68")
+			(uuid "576d9506-dd6e-4354-9100-32ca7783d6c4")
 			(effects
 				(font
 					(size 1 1)
@@ -12786,12 +12851,12 @@
 				)
 			)
 		)
-		(property "Field-1" ""
+		(property "Digikey" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7ff1d84-a678-4c4d-afda-ab1377ed49d4")
+			(uuid "e33c6b97-8929-465f-a35f-8fc0d5ebf93d")
 			(effects
 				(font
 					(size 1 1)
@@ -12803,7 +12868,7 @@
 		(path "/83a01578-146a-4a2c-801c-4cfb92bd6dcf")
 		(sheetname "Root")
 		(sheetfile "rp2350_stamp.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.5 -1)
 			(end -1 -1)
@@ -15050,7 +15115,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -15059,6 +15124,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "afb1d413-4a79-4cf0-8580-8a46e46518f1")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -17278,7 +17357,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+		(property "Description" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17287,6 +17366,20 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Digikey" ""
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a4e1e5c6-7438-4ae1-acb2-982d0fad5371")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)

@@ -7958,6 +7958,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 50.8 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e3b8ed4-4086-4649-abb0-e15fef5b4d22")
 		)
@@ -8269,7 +8278,7 @@
 		(at 227.33 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0fd74fdc-b724-4817-953e-26edd2110ee4")
@@ -8308,6 +8317,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 227.33 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 227.33 100.33 0)
 			(effects
 				(font
@@ -8514,7 +8532,7 @@
 				)
 			)
 		)
-		(property "Value" "AP2112K-3.3"
+		(property "Value" "ME6211"
 			(at 66.04 64.77 0)
 			(effects
 				(font
@@ -8531,7 +8549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP2112.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1811131510_MICRONE-Nanjing-Micro-One-Elec-ME6211C33M5G-N_C82942.pdf"
 			(at 66.04 68.58 0)
 			(effects
 				(font
@@ -8549,7 +8567,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C51118"
+		(property "LCSC" "C82942"
 			(at 66.04 71.12 0)
 			(effects
 				(font
@@ -8558,7 +8576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "AP2112K-3.3TRG1DICT-ND"
+		(property "Digikey" ""
 			(at 66.04 71.12 0)
 			(effects
 				(font
@@ -8785,7 +8803,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TS-3025-A-A-B"
+			(at 121.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 121.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C561514"
 			(at 121.92 119.38 0)
 			(effects
 				(font
@@ -8931,6 +8967,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 157.48 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 157.48 93.98 0)
 			(effects
 				(font
@@ -9379,7 +9424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Winbond-Elec-W25Q128JVPIQ_C190862.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Winbond-Elec-W25Q128JVPIQ_C190862.pdf"
 			(at 59.69 161.29 0)
 			(effects
 				(font
@@ -9398,6 +9443,15 @@
 			)
 		)
 		(property "LCSC" "C190862"
+			(at 59.69 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 59.69 146.05 0)
 			(effects
 				(font
@@ -9668,7 +9722,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4647d717-6f7a-4678-ace8-7ddcaa66ecc6")
@@ -9707,6 +9761,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 255.27 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 255.27 100.33 0)
 			(effects
 				(font
@@ -9782,7 +9845,7 @@
 			(at 62.23 109.22 0)
 			(effects
 				(font
-					(size 1.524 1.524)
+					(size 1.27 1.27)
 				)
 			)
 		)
@@ -9815,6 +9878,15 @@
 		)
 		(property "LCSC" "C82121"
 			(at 62.23 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 62.23 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9901,6 +9973,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 133.35 71.12 0)
 			(effects
 				(font
@@ -10126,6 +10207,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f9d974f-4056-4754-acee-cf2fef619f2f")
 		)
@@ -10193,6 +10283,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 130.81 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 130.81 124.46 0)
 			(effects
 				(font
@@ -10276,6 +10375,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "644d8781-dfd7-45de-a71f-6ef4617c5988")
 		)
@@ -10351,6 +10459,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cdf029bf-6143-4664-b78b-d6459145c47e")
 		)
@@ -10418,6 +10535,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 80.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 80.01 100.33 0)
 			(effects
 				(font
@@ -10573,6 +10699,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 142.24 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5ab6314-c674-44fd-baa5-46892984ed7b")
 		)
@@ -10720,6 +10855,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 31.75 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8d9a9e4-d27f-4f1c-84d4-b936cc64c436")
 		)
@@ -10852,6 +10996,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 133.35 104.14 0)
 			(effects
 				(font
@@ -11008,6 +11161,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55fb4fb2-551d-4cdf-8dad-f1a852ccddb2")
 		)
@@ -11139,7 +11301,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TS-3025-A-A-B"
+			(at 190.5 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 190.5 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C561514"
 			(at 190.5 50.8 0)
 			(effects
 				(font
@@ -11223,6 +11403,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 72.39 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79984a69-fd8c-4c5b-b2b1-1c557f74c530")
 		)
@@ -11249,7 +11438,7 @@
 		(at 240.03 115.57 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "83a01578-146a-4a2c-801c-4cfb92bd6dcf")
@@ -11288,6 +11477,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 240.03 115.57 0)
 			(effects
 				(font
@@ -11538,6 +11736,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 80.01 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0232729b-4da0-455d-841d-cf9063868074")
 		)
@@ -11613,6 +11820,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 77.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a8e1de3-c39f-4ffc-ad27-a9e5d588fe09")
 		)
@@ -11680,7 +11896,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+		(property "Description" ""
+			(at 48.26 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 48.26 105.41 0)
 			(effects
 				(font
@@ -11900,6 +12125,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 39.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d79f2ecb-0f46-4c02-84de-5b34f64e48b8")
 		)
@@ -12047,6 +12281,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 43.18 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "55d5c1c0-fec8-477d-afd3-17ee71a92e1a")
 		)
@@ -12122,6 +12365,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d62e7d6c-5df4-4e9c-8335-ed56d0c076e0")
 		)
@@ -12188,7 +12440,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" ""
+			(at 55.88 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 55.88 72.39 0)
 			(effects
 				(font
@@ -12215,7 +12476,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a299e04c-a9e6-4936-ba57-7a3bbfdb6e67")
@@ -12254,6 +12515,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 240.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 240.03 87.63 0)
 			(effects
 				(font
@@ -12504,6 +12774,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 128.27 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "265a69a1-db36-428d-9671-29d75efdd858")
 		)
@@ -12570,7 +12849,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Orange"
+			(at 30.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 30.48 105.41 0)
 			(effects
 				(font
@@ -12725,6 +13013,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e61daa53-87fb-4d88-a638-fdc73aafdf6d")
 		)
@@ -12801,6 +13098,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 142.24 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "579cbabf-4d1b-4fe8-95e6-c8ef96de2b8b")
 		)
@@ -12852,7 +13158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2301121209_APV-APH252010T4R7M_C5349608.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2306021632_cjiang--Changjiang-Microelectronics-Tech-FTC252010S3R3MBCA_C5832359.pdf"
 			(at 142.24 90.17 0)
 			(effects
 				(font
@@ -12861,7 +13167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "FTC252010S3R3MBCA"
 			(at 142.24 90.17 0)
 			(effects
 				(font
@@ -12870,7 +13176,16 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5349608"
+		(property "LCSC" "C5832359"
+			(at 142.24 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 142.24 90.17 0)
 			(effects
 				(font
@@ -12939,7 +13254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "B5817WS-SJ"
 			(at 36.83 68.58 0)
 			(effects
 				(font
@@ -12949,6 +13264,15 @@
 			)
 		)
 		(property "LCSC" "C114023"
+			(at 36.83 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 36.83 68.58 0)
 			(effects
 				(font
@@ -13174,6 +13498,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 133.35 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51f8db79-2472-4421-96f5-3a4c144fcb3f")
 		)
@@ -13241,6 +13574,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 133.35 73.66 0)
 			(effects
 				(font
@@ -13324,6 +13666,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 182.88 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0b4b6af-a7dc-4862-b63a-450971d4463c")
 		)
@@ -13391,6 +13742,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 133.35 58.42 0)
 			(effects
 				(font
@@ -13545,6 +13905,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" ""
+			(at 128.27 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f30f5b7d-9215-413d-bbbb-43fef122a6e1")
 		)
@@ -13612,6 +13981,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 130.81 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 130.81 127 0)
 			(effects
 				(font
@@ -13770,6 +14148,15 @@
 			)
 		)
 		(property "LCSC" "C85202"
+			(at 40.64 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 40.64 62.23 0)
 			(effects
 				(font
@@ -13962,7 +14349,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "XYDBPCNANF-12MHZ"
+		(property "Value" "CM4012M00012001"
 			(at 138.43 144.78 90)
 			(effects
 				(font
@@ -13981,7 +14368,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2306211600_huaxindianzi-CM4012M00012001_C7294611.pdf"
 			(at 134.62 143.51 0)
 			(effects
 				(font
@@ -13999,8 +14386,17 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C521567"
+		(property "LCSC" "C7294611"
 			(at 134.62 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
+			(at 134.62 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14081,6 +14477,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 133.35 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" ""
 			(at 133.35 99.06 0)
 			(effects
 				(font
